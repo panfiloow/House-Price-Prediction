@@ -21,11 +21,19 @@ The following technologies and libraries are used to implement the project:
 
 House-Price-Prediction/
 │
+
 ├─── data/
+
 │ ├─── train.csv ## Data for model training
+
 │ ├─── test.csv # Data for testing the model
+
 │ └─── data_description.txt # Data description
+
 │
+
 ├├─── housepriceprediction.ipynb # Jupyter Notebook with code for training, testing and visualizing results
+
 │
+
 └─── README.md # This file
